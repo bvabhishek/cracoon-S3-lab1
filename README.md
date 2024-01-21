@@ -32,7 +32,7 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 * Step 1 Clone the repository 
 
 ```bash
-git clone https://github.com/bvabhishek/s3misconfiguration.git
+git clone https://github.com/bvabhishek/cracoon-S3-lab1.git
 ```
 * Step 2: Change Directory
 
