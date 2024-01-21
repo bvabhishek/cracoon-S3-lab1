@@ -37,7 +37,7 @@ git clone https://github.com/bvabhishek/cracoon-S3-lab1.git
 * Step 2: Change Directory
 
 ```bash
-cd s3misconfiguration/
+cd cracoon-S3-lab1/
 ```
 * Step 3: Initialise terraform 
 
